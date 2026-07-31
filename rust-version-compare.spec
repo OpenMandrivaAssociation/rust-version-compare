@@ -5,8 +5,8 @@
 %global crate version-compare
 
 Name:           rust-%{crate}
-Version:        0.0.10
-Release:        2%{?dist}
+Version:        0.2.1
+Release:        1%{?dist}
 Summary:        Rust library to easily compare version numbers
 
 # Upstream license specification: MIT
